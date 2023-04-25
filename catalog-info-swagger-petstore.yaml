@@ -5,7 +5,7 @@ metadata:
   description: A mock API.
 spec:
   type: openapi
-
+  owner: swagger-petstore-contact
   lifecycle: production
   definition: |-
     swagger: "2.0"
