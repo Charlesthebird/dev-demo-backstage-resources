@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Swagger Petstore
+  name: Swagger-Petstore
   description: A mock API.
 spec:
   type: openapi
